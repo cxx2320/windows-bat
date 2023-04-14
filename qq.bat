@@ -1,0 +1,1 @@
+start "" "F:\p\qq\Bin\QQScLauncher.exe"

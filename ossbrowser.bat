@@ -1,0 +1,1 @@
+start "" "F:\p\ossbrowser\oss-browser.exe"

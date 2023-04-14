@@ -1,0 +1,1 @@
+wsl --exec php7.3 -S [::]:3366 -t /mnt/f/t/backend/adminer/

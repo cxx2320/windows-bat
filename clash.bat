@@ -1,0 +1,1 @@
+start "" "F:\p\ClashforWindows\Clash for Windows.exe"

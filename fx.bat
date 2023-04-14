@@ -1,0 +1,1 @@
+wsl.exe --cd "/mnt/c" code /root/case/fenxiao

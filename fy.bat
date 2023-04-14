@@ -1,0 +1,1 @@
+start "" "F:\p\baidu-translate-client\°Ù¶È·­Òë.exe"

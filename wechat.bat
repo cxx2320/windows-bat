@@ -1,0 +1,1 @@
+start "" "F:\p\WeChat\WeChat.exe"
